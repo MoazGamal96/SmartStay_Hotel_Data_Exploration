@@ -3,11 +3,11 @@ DEPI data analysis internship project
 
 Team members
 
-Moaz Gamal Eldin Tawfiq
-Youssef Mohammed Omara
-Muhammed Gamal Muhammed
-Nermen Samy Abdelhafez Abozaid
-Nourhan Saeed Hifny Lashin
+Moaz Gamal Eldin Tawfiq,
+Youssef Mohammed Omara,
+Muhammed Gamal Muhammed,
+Nermen Samy Abdelhafez Abozaid,
+Nourhan Saeed Hifny Lashin,
 
 Project Overview
 
