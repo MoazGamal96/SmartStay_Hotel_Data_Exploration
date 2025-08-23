@@ -9,14 +9,35 @@ Muhammed Gamal Muhammed,
 Nermen Samy Abdelhafez Abozaid,
 Nourhan Saeed Hifny Lashin,
 
-Project Overview
-
-The SmartStay_Hotel_Data_Exploration project analyzes hotel booking transactions (Kaggle hotel_bookings dataset). The goal is to clean and model booking data, extract business-relevant insights (such as cancellations, ADR, lead times, guest composition, and seasonality), and build an interactive Excel dashboard that supports revenue and operational decisions. Tools used: Excel (Tables, PivotTables, Slicers, Charts), ClickUp for task management, and GitHub for storing final files and documentation.
-
+________________________________________
 Project Objectives
+  •	Clean and prepare the hotel booking dataset for analysis.
+  •	Perform Exploratory Data Analysis (EDA) to identify trends in bookings, cancellations, revenue, and guest segments.
+  •	Build KPIs and visualizations to measure performance (ADR, cancellation rate, RevPAR, occupancy proxies).
+  •	Create an interactive dashboard (Power BI / Tableau) showcasing key insights and recommendations.
+  •	Package analysis, visualizations, and documentation in a polished GitHub repo for portfolio use.
+________________________________________
+Project Scope
+  •	Data preprocessing and cleaning (missing values, date parsing, outliers).
+  •	EDA: univariate, bivariate, time-series, and segmentation analysis.
+  •	Feature engineering: total nights, total guests, lead time bins, stay type.
+  •	Optional modeling: cancellation prediction & booking forecasting.
+  •	Dashboard & report: Power BI/ Tableau deliverable + slide deck 
+  •	Documentation: README, data dictionary, methodology, and lessons learned.
 
-Create a clean, well-documented dataset ready for analysis.
-Produce key KPIs and visualizations to explain booking behavior and revenue drivers.
-Identify patterns in cancellations, lead time, ADR (Average Daily Rate), and guest composition.
-Build an Excel dashboard with interactive slicers and clear storytelling.
-Produce a final report with actionable recommendations.
+________________________________________
+Project Plan (7-week timeline)
+•	Week 1 — Kickoff & Data Acquisition
+  	Download dataset, create GitHub repo, set up ClickUp project, create data dictionary.
+•	Week 2 — Data Cleaning & Preprocessing
+  	Handle missing values, convert date fields, and create engineered features.
+•	Week 3 — Exploratory Data Analysis (EDA)
+  	Distribution checks, cancellation analysis, ADR & revenue exploration.
+•	Week 4 — Modeling (optional)
+  	Baseline cancellation classifier, simple time-series forecast for bookings.
+•	Week 5 — Dashboard Wireframe & Build
+  	Wireframe pages, build a Power BI dashboard connected to a cleaned CSV.
+•	Week 6 — Report & Presentation
+  	Write final report, prepare slide deck, create Loom walkthrough.
+•	Week 7 — Review & Finalize
+  	Polish deliverables, GitHub release (v1.0), retrospective & archive.
