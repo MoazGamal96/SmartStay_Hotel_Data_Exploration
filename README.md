@@ -1,34 +1,39 @@
-# SmartStay_Hotel_Data_Exploration
+# SmartStay Hotel Data Exploration
+![Project Banner](https://github.com/user-attachments/assets/576b289a-fb50-4070-8b70-9e4f9c2bc9d0)
 
-### 👥Team Members:<br>
+## 👥Team Members:<br>
 <br>
 Moaz Gamal Eldin Tawfiq<br>
 Youssef Mohammed Omara<br>
 Muhammed Gamal Muhammed<br>
 Nermen Samy Abdelhafez Abozaid<br>
 Nourhan Saeed Hifny Lashin<br>
-________________________________________<br>
-### Instructor: <br>
-Dr.Amal Mahmoud <br>
-________________________________________<br>
-### 📌Project Overview:<br>
-Utilize hotel booking data to identify demand patterns, revenue drivers, and traveler origins, informing marketing, pricing, and capacity planning to enhance tourism performance in Egypt.<br>
+
+### **Instructor:**
+Dr. Amal Mahmoud
+
+---
+
+## 📌Project Overview: <br>
+This project maps booking patterns and revenue signals to help hotels and tourism authorities prioritize markets,
+ optimize pricing, and design targeted campaigns—supporting increased arrivals, higher yield,
+ and better operational planning across Egypt’s hospitality sector.<br>
  <br>
   •	Clean and prepare the hotel booking dataset for analysis.<br>
   •	Perform Exploratory Data Analysis (EDA) to identify trends in bookings, cancellations, revenue, and guest segments.<br>
   •	Build KPIs and visualizations to measure performance (ADR, cancellation rate, RevPAR, occupancy proxies).<br>
   •	Create an interactive dashboard (Power BI / Tableau) showcasing key insights and recommendations.<br>
   •	Package analysis, visualizations, and documentation in a polished GitHub repo for portfolio use.<br>
-________________________________________<br>
-###🎯Project Scope:<br>
+________________________________________
+## 🎯Project Scope: <br>
   •	Data preprocessing and cleaning (missing values, date parsing, outliers).<br>
   •	EDA: univariate, bivariate, time-series, and segmentation analysis.<br>
   •	Feature engineering: total nights, total guests, lead time bins, stay type.<br>
   •	Optional modeling: cancellation prediction & booking forecasting.<br>
   •	Dashboard & report: Power BI/ Tableau deliverable + slide deck <br>
   •	Documentation: README, data dictionary, methodology, and lessons learned.<br>
-________________________________________<br>
-### 📊Project Plan: <br>
+________________________________________
+## 📊Project Plan: <br>
 •	Week 1 — Kickoff & Data Acquisition<br>
   	Download dataset, create GitHub repo, set up ClickUp project, create data dictionary.<br>
 •	Week 2 — Data Cleaning & Preprocessing<br>
