@@ -10,7 +10,7 @@ Nourhan Saeed Hifny Lashin<br>
 ________________________________________<br>
 ### Instructor: <br>
 Dr.Amal Mahmoud <br>
-________________________________________
+________________________________________<br>
 ## 📌Project Overview:<br>
 Utilize hotel booking data to identify demand patterns, revenue drivers, and traveler origins, informing marketing, pricing, and capacity planning to enhance tourism performance in Egypt.<br>
  <br>
@@ -19,7 +19,7 @@ Utilize hotel booking data to identify demand patterns, revenue drivers, and tra
   •	Build KPIs and visualizations to measure performance (ADR, cancellation rate, RevPAR, occupancy proxies).<br>
   •	Create an interactive dashboard (Power BI / Tableau) showcasing key insights and recommendations.<br>
   •	Package analysis, visualizations, and documentation in a polished GitHub repo for portfolio use.<br>
-________________________________________
+________________________________________<br>
 ## 🎯Project Scope:<br>
   •	Data preprocessing and cleaning (missing values, date parsing, outliers).<br>
   •	EDA: univariate, bivariate, time-series, and segmentation analysis.<br>
@@ -27,7 +27,7 @@ ________________________________________
   •	Optional modeling: cancellation prediction & booking forecasting.<br>
   •	Dashboard & report: Power BI/ Tableau deliverable + slide deck <br>
   •	Documentation: README, data dictionary, methodology, and lessons learned.<br>
-________________________________________
+________________________________________<br>
 ## 📊Project Plan: <br>
 •	Week 1 — Kickoff & Data Acquisition<br>
   	Download dataset, create GitHub repo, set up ClickUp project, create data dictionary.<br>
