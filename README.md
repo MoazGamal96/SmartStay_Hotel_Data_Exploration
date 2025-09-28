@@ -1,18 +1,17 @@
 # SmartStay_Hotel_Data_Exploration
 
-### 👥Team members<br>
+### 👥Team Members:<br>
 <br>
 Moaz Gamal Eldin Tawfiq<br>
 Youssef Mohammed Omara<br>
 Muhammed Gamal Muhammed<br>
 Nermen Samy Abdelhafez Abozaid<br>
 Nourhan Saeed Hifny Lashin<br>
-<br>
-### Instructor:<br>
-Dr.Amal Mahmoud<br>
-
 ________________________________________
-##📌 Project Overview<br>
+### Instructor: <br>
+Dr.Amal Mahmoud <br>
+________________________________________
+## 📌Project Overview:<br>
 Utilize hotel booking data to identify demand patterns, revenue drivers, and traveler origins, informing marketing, pricing, and capacity planning to enhance tourism performance in Egypt.<br>
  <br>
   •	Clean and prepare the hotel booking dataset for analysis.<br>
@@ -21,7 +20,7 @@ Utilize hotel booking data to identify demand patterns, revenue drivers, and tra
   •	Create an interactive dashboard (Power BI / Tableau) showcasing key insights and recommendations.<br>
   •	Package analysis, visualizations, and documentation in a polished GitHub repo for portfolio use.<br>
 ________________________________________
-##🎯 Project scope<br>
+## 🎯Project Scope:<br>
   •	Data preprocessing and cleaning (missing values, date parsing, outliers).<br>
   •	EDA: univariate, bivariate, time-series, and segmentation analysis.<br>
   •	Feature engineering: total nights, total guests, lead time bins, stay type.<br>
@@ -29,7 +28,7 @@ ________________________________________
   •	Dashboard & report: Power BI/ Tableau deliverable + slide deck <br>
   •	Documentation: README, data dictionary, methodology, and lessons learned.<br>
 ________________________________________
-## 📊Project Plan <br>
+## 📊Project Plan: <br>
 •	Week 1 — Kickoff & Data Acquisition<br>
   	Download dataset, create GitHub repo, set up ClickUp project, create data dictionary.<br>
 •	Week 2 — Data Cleaning & Preprocessing<br>
