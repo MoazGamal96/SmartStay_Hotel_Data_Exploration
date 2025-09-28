@@ -1,16 +1,17 @@
 # SmartStay_Hotel_Data_Exploration
-DEPI data analysis internship project
 
-Team members
+### 👥Team members
 
-Moaz Gamal Eldin Tawfiq,
-Youssef Mohammed Omara,
-Muhammed Gamal Muhammed,
-Nermen Samy Abdelhafez Abozaid,
-Nourhan Saeed Hifny Lashin,
+Moaz Gamal Eldin Tawfiq<br>
+Youssef Mohammed Omara<br>
+Muhammed Gamal Muhammed<br>
+Nermen Samy Abdelhafez Abozaid<br>
+Nourhan Saeed Hifny Lashin<br>
 
+### Instructor:
+Dr.Amal Mahmoud
 ________________________________________
-Project Objectives
+##📌 Project Overview
   •	Clean and prepare the hotel booking dataset for analysis.
   •	Perform Exploratory Data Analysis (EDA) to identify trends in bookings, cancellations, revenue, and guest segments.
   •	Build KPIs and visualizations to measure performance (ADR, cancellation rate, RevPAR, occupancy proxies).
