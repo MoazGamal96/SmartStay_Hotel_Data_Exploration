@@ -1,0 +1,9 @@
+customer_type,tourism_type,customer_type_id
+Transient,International,1
+Transient,Domestic,2
+Contract,Domestic,3
+Contract,International,4
+Transient-Party,International,5
+Transient-Party,Domestic,6
+Group,Domestic,7
+Group,International,8

@@ -1,0 +1,4 @@
+deposit_type,deposit_type_id
+No Deposit,1
+Refundable,2
+Non Refund,3

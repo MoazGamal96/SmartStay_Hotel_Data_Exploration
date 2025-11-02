@@ -1,0 +1,591 @@
+agent,market_segment,distribution_channel,market_key
+0.0,Direct,Direct,1
+304.0,Corporate,Corporate,2
+240.0,Online TA,TA/TO,3
+303.0,Direct,Direct,4
+15.0,Offline TA/TO,TA/TO,5
+241.0,Online TA,TA/TO,6
+8.0,Offline TA/TO,TA/TO,7
+0.0,Corporate,Corporate,8
+250.0,Direct,Direct,9
+115.0,Offline TA/TO,TA/TO,10
+5.0,Offline TA/TO,TA/TO,11
+241.0,Offline TA/TO,TA/TO,12
+175.0,Offline TA/TO,TA/TO,13
+134.0,Offline TA/TO,TA/TO,14
+156.0,Offline TA/TO,TA/TO,15
+243.0,Offline TA/TO,TA/TO,16
+242.0,Online TA,TA/TO,17
+242.0,Offline TA/TO,TA/TO,18
+3.0,Offline TA/TO,TA/TO,19
+105.0,Offline TA/TO,TA/TO,20
+40.0,Offline TA/TO,TA/TO,21
+147.0,Online TA,TA/TO,22
+0.0,Complementary,Direct,23
+306.0,Online TA,TA/TO,24
+184.0,Online TA,TA/TO,25
+96.0,Offline TA/TO,TA/TO,26
+2.0,Offline TA/TO,TA/TO,27
+127.0,Offline TA/TO,TA/TO,28
+95.0,Offline TA/TO,TA/TO,29
+146.0,Offline TA/TO,TA/TO,30
+9.0,Direct,Direct,31
+177.0,Offline TA/TO,TA/TO,32
+6.0,Offline TA/TO,TA/TO,33
+143.0,Offline TA/TO,TA/TO,34
+105.0,Online TA,TA/TO,35
+244.0,Offline TA/TO,TA/TO,36
+149.0,Offline TA/TO,TA/TO,37
+240.0,Direct,TA/TO,38
+147.0,Offline TA/TO,TA/TO,39
+167.0,Corporate,Corporate,40
+300.0,Offline TA/TO,TA/TO,41
+171.0,Offline TA/TO,TA/TO,42
+305.0,Groups,Direct,43
+146.0,Direct,Direct,44
+67.0,Offline TA/TO,TA/TO,45
+196.0,Offline TA/TO,TA/TO,46
+152.0,Offline TA/TO,TA/TO,47
+142.0,Offline TA/TO,TA/TO,48
+0.0,Online TA,TA/TO,49
+261.0,Offline TA/TO,TA/TO,50
+104.0,Offline TA/TO,TA/TO,51
+36.0,Offline TA/TO,TA/TO,52
+2.0,Direct,Direct,53
+0.0,Offline TA/TO,TA/TO,54
+26.0,Offline TA/TO,TA/TO,55
+29.0,Offline TA/TO,TA/TO,56
+258.0,Offline TA/TO,TA/TO,57
+0.0,Groups,Corporate,58
+110.0,Corporate,Corporate,59
+71.0,Offline TA/TO,TA/TO,60
+181.0,Offline TA/TO,TA/TO,61
+0.0,Offline TA/TO,Direct,62
+88.0,Corporate,Corporate,63
+96.0,Groups,TA/TO,64
+0.0,Corporate,Direct,65
+251.0,Offline TA/TO,TA/TO,66
+275.0,Offline TA/TO,TA/TO,67
+15.0,Groups,TA/TO,68
+69.0,Offline TA/TO,TA/TO,69
+248.0,Offline TA/TO,TA/TO,70
+208.0,Groups,TA/TO,71
+208.0,Offline TA/TO,TA/TO,72
+256.0,Offline TA/TO,TA/TO,73
+314.0,Offline TA/TO,TA/TO,74
+126.0,Offline TA/TO,Direct,75
+281.0,Corporate,Corporate,76
+134.0,Groups,TA/TO,77
+273.0,Groups,Direct,78
+0.0,Groups,Direct,79
+253.0,Complementary,TA/TO,80
+185.0,Corporate,Corporate,81
+281.0,Groups,Corporate,82
+330.0,Offline TA/TO,TA/TO,83
+334.0,Corporate,Corporate,84
+328.0,Corporate,Corporate,85
+326.0,Corporate,Corporate,86
+321.0,Offline TA/TO,TA/TO,87
+334.0,Direct,Direct,88
+324.0,Corporate,Corporate,89
+185.0,Direct,Direct,90
+313.0,Offline TA/TO,TA/TO,91
+38.0,Groups,TA/TO,92
+0.0,Complementary,Corporate,93
+155.0,Groups,TA/TO,94
+68.0,Groups,TA/TO,95
+335.0,Groups,TA/TO,96
+308.0,Groups,TA/TO,97
+332.0,Offline TA/TO,TA/TO,98
+15.0,Complementary,TA/TO,99
+126.0,Corporate,Corporate,100
+94.0,Corporate,Corporate,101
+332.0,Groups,TA/TO,102
+0.0,Groups,TA/TO,103
+348.0,Online TA,TA/TO,104
+38.0,Groups,Direct,105
+310.0,Offline TA/TO,TA/TO,106
+339.0,Offline TA/TO,TA/TO,107
+115.0,Groups,TA/TO,108
+375.0,Offline TA/TO,TA/TO,109
+126.0,Direct,Direct,110
+66.0,Groups,TA/TO,111
+0.0,Direct,Corporate,112
+327.0,Offline TA/TO,TA/TO,113
+387.0,Offline TA/TO,TA/TO,114
+68.0,Groups,Direct,115
+298.0,Groups,TA/TO,116
+67.0,Groups,TA/TO,117
+146.0,Groups,TA/TO,118
+91.0,Groups,TA/TO,119
+245.0,Groups,TA/TO,120
+71.0,Groups,TA/TO,121
+253.0,Offline TA/TO,TA/TO,122
+95.0,Groups,TA/TO,123
+248.0,Groups,TA/TO,124
+385.0,Groups,Direct,125
+257.0,Groups,TA/TO,126
+5.0,Online TA,TA/TO,127
+314.0,Online TA,TA/TO,128
+393.0,Offline TA/TO,TA/TO,129
+168.0,Offline TA/TO,TA/TO,130
+405.0,Direct,Direct,131
+249.0,Groups,TA/TO,132
+315.0,Groups,TA/TO,133
+315.0,Offline TA/TO,TA/TO,134
+69.0,Complementary,TA/TO,135
+75.0,Offline TA/TO,TA/TO,136
+15.0,Online TA,TA/TO,137
+128.0,Offline TA/TO,TA/TO,138
+339.0,Online TA,TA/TO,139
+196.0,Online TA,TA/TO,140
+307.0,Groups,Corporate,141
+11.0,Offline TA/TO,TA/TO,142
+436.0,Offline TA/TO,TA/TO,143
+1.0,Groups,TA/TO,144
+201.0,Groups,TA/TO,145
+183.0,Corporate,Corporate,146
+253.0,Groups,TA/TO,147
+251.0,Groups,TA/TO,148
+223.0,Groups,Direct,149
+11.0,Groups,TA/TO,150
+368.0,Groups,TA/TO,151
+127.0,Complementary,TA/TO,152
+336.0,Offline TA/TO,TA/TO,153
+175.0,Online TA,TA/TO,154
+291.0,Corporate,Corporate,155
+464.0,Offline TA/TO,TA/TO,156
+411.0,Groups,TA/TO,157
+481.0,Corporate,Corporate,158
+134.0,Complementary,TA/TO,159
+10.0,Offline TA/TO,TA/TO,160
+154.0,Corporate,Corporate,161
+468.0,Online TA,TA/TO,162
+410.0,Offline TA/TO,TA/TO,163
+390.0,Corporate,Corporate,164
+0.0,Corporate,TA/TO,165
+440.0,Groups,TA/TO,166
+273.0,Groups,TA/TO,167
+177.0,Groups,TA/TO,168
+66.0,Offline TA/TO,TA/TO,169
+495.0,Groups,Corporate,170
+492.0,Groups,TA/TO,171
+493.0,Groups,TA/TO,172
+0.0,Online TA,Direct,173
+385.0,Groups,TA/TO,174
+434.0,Groups,TA/TO,175
+57.0,Offline TA/TO,TA/TO,176
+531.0,Corporate,Corporate,177
+420.0,Offline TA/TO,TA/TO,178
+483.0,Offline TA/TO,TA/TO,179
+531.0,Offline TA/TO,TA/TO,180
+8.0,Complementary,TA/TO,181
+75.0,Complementary,TA/TO,182
+6.0,Online TA,TA/TO,183
+127.0,Online TA,TA/TO,184
+526.0,Online TA,TA/TO,185
+472.0,Offline TA/TO,TA/TO,186
+177.0,Online TA,TA/TO,187
+429.0,Online TA,TA/TO,188
+314.0,Online TA,Direct,189
+146.0,Corporate,Corporate,190
+5.0,Complementary,TA/TO,191
+240.0,Online TA,Direct,192
+16.0,Corporate,Corporate,193
+0.0,Direct,TA/TO,194
+446.0,Offline TA/TO,TA/TO,195
+241.0,Direct,Direct,196
+240.0,Online TA,Corporate,197
+9.0,Corporate,Corporate,198
+34.0,Corporate,Direct,199
+250.0,Direct,TA/TO,200
+78.0,Offline TA/TO,TA/TO,201
+242.0,Online TA,Direct,202
+139.0,Offline TA/TO,TA/TO,203
+0.0,Direct,Undefined,204
+201.0,Offline TA/TO,TA/TO,205
+95.0,Direct,Direct,206
+252.0,Groups,Corporate,207
+183.0,Groups,Corporate,208
+270.0,Corporate,Corporate,209
+273.0,Complementary,TA/TO,210
+47.0,Corporate,Corporate,211
+281.0,Complementary,Corporate,212
+185.0,Complementary,Corporate,213
+142.0,Groups,TA/TO,214
+134.0,Direct,Direct,215
+5.0,Direct,Direct,216
+8.0,Online TA,TA/TO,217
+114.0,Offline TA/TO,TA/TO,218
+301.0,Offline TA/TO,TA/TO,219
+250.0,Online TA,TA/TO,220
+115.0,Online TA,TA/TO,221
+171.0,Direct,Direct,222
+250.0,Offline TA/TO,TA/TO,223
+96.0,Complementary,TA/TO,224
+193.0,Corporate,Corporate,225
+126.0,Offline TA/TO,TA/TO,226
+240.0,Groups,TA/TO,227
+47.0,Direct,Direct,228
+47.0,Direct,Corporate,229
+1.0,Offline TA/TO,TA/TO,230
+182.0,Complementary,TA/TO,231
+40.0,Complementary,TA/TO,232
+0.0,Online TA,Corporate,233
+6.0,Offline TA/TO,Corporate,234
+135.0,Corporate,Corporate,235
+110.0,Direct,Direct,236
+348.0,Offline TA/TO,TA/TO,237
+350.0,Groups,TA/TO,238
+314.0,Direct,Direct,239
+195.0,Corporate,Corporate,240
+352.0,Corporate,TA/TO,241
+355.0,Corporate,Corporate,242
+242.0,Direct,Direct,243
+159.0,Corporate,Corporate,244
+139.0,Corporate,Corporate,245
+10.0,Direct,Direct,246
+127.0,Direct,Direct,247
+5.0,Online TA,Direct,248
+104.0,Offline TA/TO,Corporate,249
+10.0,Offline TA/TO,Corporate,250
+315.0,Complementary,TA/TO,251
+250.0,Direct,Corporate,252
+6.0,Direct,Direct,253
+363.0,Offline TA/TO,TA/TO,254
+384.0,Corporate,Corporate,255
+38.0,Complementary,TA/TO,256
+360.0,Corporate,Corporate,257
+331.0,Corporate,Corporate,258
+367.0,Corporate,Corporate,259
+6.0,Offline TA/TO,Direct,260
+91.0,Offline TA/TO,TA/TO,261
+36.0,Online TA,TA/TO,262
+64.0,Direct,Direct,263
+406.0,Offline TA/TO,TA/TO,264
+315.0,Groups,Direct,265
+405.0,Direct,TA/TO,266
+115.0,Offline TA/TO,Direct,267
+360.0,Offline TA/TO,TA/TO,268
+40.0,Offline TA/TO,Direct,269
+163.0,Offline TA/TO,TA/TO,270
+414.0,Offline TA/TO,TA/TO,271
+333.0,Offline TA/TO,TA/TO,272
+427.0,Offline TA/TO,TA/TO,273
+431.0,Offline TA/TO,TA/TO,274
+430.0,Offline TA/TO,TA/TO,275
+429.0,Offline TA/TO,TA/TO,276
+426.0,Offline TA/TO,TA/TO,277
+438.0,Offline TA/TO,TA/TO,278
+433.0,Offline TA/TO,TA/TO,279
+418.0,Groups,TA/TO,280
+441.0,Offline TA/TO,TA/TO,281
+223.0,Groups,Corporate,282
+282.0,Corporate,Corporate,283
+432.0,Offline TA/TO,TA/TO,284
+72.0,Direct,Corporate,285
+450.0,Offline TA/TO,TA/TO,286
+78.0,Offline TA/TO,Corporate,287
+241.0,Online TA,Corporate,288
+434.0,Offline TA/TO,TA/TO,289
+454.0,Groups,Corporate,290
+455.0,Corporate,Corporate,291
+59.0,Corporate,Corporate,292
+451.0,Corporate,Corporate,293
+336.0,Offline TA/TO,Corporate,294
+8.0,Offline TA/TO,Corporate,295
+327.0,Offline TA/TO,Corporate,296
+254.0,Corporate,Corporate,297
+468.0,Offline TA/TO,TA/TO,298
+180.0,Corporate,Corporate,299
+146.0,Offline TA/TO,Corporate,300
+358.0,Corporate,Corporate,301
+195.0,Corporate,Direct,302
+154.0,Corporate,Direct,303
+469.0,Online TA,TA/TO,304
+165.0,Corporate,Corporate,305
+241.0,Online TA,Direct,306
+168.0,Groups,TA/TO,307
+0.0,Offline TA/TO,Corporate,308
+467.0,Online TA,TA/TO,309
+510.0,Corporate,Corporate,310
+8.0,Offline TA/TO,Direct,311
+152.0,Groups,TA/TO,312
+152.0,Complementary,TA/TO,313
+468.0,Online TA,Corporate,314
+531.0,Complementary,Direct,315
+337.0,Corporate,Corporate,316
+476.0,Offline TA/TO,TA/TO,317
+418.0,Offline TA/TO,TA/TO,318
+502.0,Groups,TA/TO,319
+527.0,Groups,TA/TO,320
+479.0,Offline TA/TO,TA/TO,321
+508.0,Online TA,TA/TO,322
+307.0,Complementary,Direct,323
+298.0,Offline TA/TO,TA/TO,324
+535.0,Corporate,Corporate,325
+302.0,Complementary,Corporate,326
+497.0,Offline TA/TO,TA/TO,327
+531.0,Complementary,TA/TO,328
+240.0,Complementary,TA/TO,329
+187.0,Complementary,Direct,330
+9.0,Online TA,TA/TO,331
+13.0,Offline TA/TO,TA/TO,332
+11.0,Online TA,TA/TO,333
+7.0,Online TA,TA/TO,334
+0.0,Complementary,TA/TO,335
+27.0,Offline TA/TO,TA/TO,336
+14.0,Direct,Direct,337
+22.0,Offline TA/TO,TA/TO,338
+17.0,Offline TA/TO,TA/TO,339
+10.0,Online TA,TA/TO,340
+28.0,Offline TA/TO,TA/TO,341
+0.0,Undefined,Undefined,342
+14.0,Direct,Undefined,343
+42.0,Offline TA/TO,TA/TO,344
+9.0,Online TA,Direct,345
+20.0,Offline TA/TO,TA/TO,346
+9.0,Online TA,Undefined,347
+19.0,Offline TA/TO,TA/TO,348
+40.0,Corporate,Corporate,349
+45.0,Complementary,Corporate,350
+34.0,Offline TA/TO,TA/TO,351
+37.0,Groups,TA/TO,352
+61.0,Offline TA/TO,TA/TO,353
+16.0,Offline TA/TO,TA/TO,354
+39.0,Offline TA/TO,TA/TO,355
+21.0,Offline TA/TO,TA/TO,356
+24.0,Offline TA/TO,TA/TO,357
+69.0,Corporate,Corporate,358
+41.0,Groups,TA/TO,359
+50.0,Offline TA/TO,TA/TO,360
+30.0,Groups,TA/TO,361
+54.0,Online TA,GDS,362
+52.0,Offline TA/TO,TA/TO,363
+12.0,Offline TA/TO,TA/TO,364
+44.0,Offline TA/TO,TA/TO,365
+64.0,Offline TA/TO,TA/TO,366
+31.0,Offline TA/TO,TA/TO,367
+29.0,Groups,TA/TO,368
+83.0,Offline TA/TO,TA/TO,369
+32.0,Groups,TA/TO,370
+63.0,Offline TA/TO,TA/TO,371
+60.0,Offline TA/TO,TA/TO,372
+55.0,Offline TA/TO,TA/TO,373
+56.0,Offline TA/TO,TA/TO,374
+89.0,Online TA,TA/TO,375
+159.0,Offline TA/TO,TA/TO,376
+155.0,Online TA,TA/TO,377
+38.0,Corporate,Corporate,378
+91.0,Corporate,Corporate,379
+87.0,Offline TA/TO,TA/TO,380
+118.0,Offline TA/TO,TA/TO,381
+86.0,Offline TA/TO,TA/TO,382
+85.0,Offline TA/TO,TA/TO,383
+94.0,Offline TA/TO,TA/TO,384
+210.0,Corporate,Corporate,385
+214.0,Offline TA/TO,TA/TO,386
+129.0,Offline TA/TO,TA/TO,387
+179.0,Corporate,Corporate,388
+138.0,Offline TA/TO,TA/TO,389
+174.0,Corporate,Corporate,390
+154.0,Offline TA/TO,TA/TO,391
+170.0,Offline TA/TO,TA/TO,392
+0.0,Aviation,Corporate,393
+182.0,Offline TA/TO,TA/TO,394
+153.0,Aviation,Corporate,395
+93.0,Corporate,Corporate,396
+151.0,Offline TA/TO,TA/TO,397
+119.0,Offline TA/TO,TA/TO,398
+35.0,Groups,TA/TO,399
+195.0,Offline TA/TO,GDS,400
+173.0,Offline TA/TO,TA/TO,401
+58.0,Offline TA/TO,TA/TO,402
+53.0,Offline TA/TO,TA/TO,403
+133.0,Groups,TA/TO,404
+79.0,Offline TA/TO,TA/TO,405
+152.0,Online TA,TA/TO,406
+235.0,Offline TA/TO,TA/TO,407
+192.0,Offline TA/TO,TA/TO,408
+191.0,Offline TA/TO,Corporate,409
+187.0,Offline TA/TO,TA/TO,410
+236.0,Offline TA/TO,TA/TO,411
+162.0,Offline TA/TO,TA/TO,412
+215.0,Corporate,Corporate,413
+34.0,Offline TA/TO,Direct,414
+270.0,Offline TA/TO,TA/TO,415
+157.0,Offline TA/TO,TA/TO,416
+83.0,Online TA,TA/TO,417
+157.0,Online TA,TA/TO,418
+86.0,Groups,TA/TO,419
+281.0,Offline TA/TO,TA/TO,420
+3.0,Groups,TA/TO,421
+287.0,Offline TA/TO,TA/TO,422
+240.0,Offline TA/TO,TA/TO,423
+86.0,Online TA,TA/TO,424
+132.0,Offline TA/TO,TA/TO,425
+37.0,Offline TA/TO,TA/TO,426
+21.0,Groups,TA/TO,427
+195.0,Online TA,GDS,428
+234.0,Offline TA/TO,TA/TO,429
+234.0,Groups,TA/TO,430
+98.0,Offline TA/TO,TA/TO,431
+77.0,Offline TA/TO,TA/TO,432
+34.0,Groups,TA/TO,433
+103.0,Offline TA/TO,TA/TO,434
+159.0,Online TA,TA/TO,435
+107.0,Corporate,Corporate,436
+262.0,Offline TA/TO,TA/TO,437
+355.0,Offline TA/TO,TA/TO,438
+154.0,Groups,TA/TO,439
+220.0,Offline TA/TO,TA/TO,440
+330.0,Groups,TA/TO,441
+171.0,Groups,TA/TO,442
+326.0,Groups,TA/TO,443
+45.0,Complementary,Direct,444
+85.0,Online TA,TA/TO,445
+121.0,Offline TA/TO,TA/TO,446
+58.0,Groups,TA/TO,447
+330.0,Corporate,TA/TO,448
+254.0,Groups,TA/TO,449
+205.0,Offline TA/TO,TA/TO,450
+378.0,Groups,TA/TO,451
+23.0,Offline TA/TO,TA/TO,452
+296.0,Groups,TA/TO,453
+290.0,Offline TA/TO,TA/TO,454
+132.0,Groups,TA/TO,455
+20.0,Groups,TA/TO,456
+229.0,Offline TA/TO,TA/TO,457
+2.0,Groups,TA/TO,458
+390.0,Offline TA/TO,TA/TO,459
+33.0,Groups,TA/TO,460
+286.0,Groups,TA/TO,461
+170.0,Groups,TA/TO,462
+6.0,Groups,TA/TO,463
+56.0,Groups,TA/TO,464
+151.0,Groups,TA/TO,465
+39.0,Groups,TA/TO,466
+47.0,Groups,Corporate,467
+276.0,Offline TA/TO,TA/TO,468
+79.0,Online TA,TA/TO,469
+276.0,Groups,TA/TO,470
+44.0,Groups,TA/TO,471
+12.0,Groups,TA/TO,472
+425.0,Online TA,TA/TO,473
+229.0,Groups,TA/TO,474
+87.0,Groups,TA/TO,475
+19.0,Groups,TA/TO,476
+484.0,Offline TA/TO,TA/TO,477
+323.0,Groups,TA/TO,478
+403.0,Offline TA/TO,TA/TO,479
+42.0,Online TA,TA/TO,480
+219.0,Corporate,Corporate,481
+394.0,Offline TA/TO,TA/TO,482
+509.0,Groups,TA/TO,483
+111.0,Offline TA/TO,TA/TO,484
+147.0,Groups,TA/TO,485
+423.0,Online TA,TA/TO,486
+4.0,Offline TA/TO,TA/TO,487
+42.0,Offline TA/TO,Direct,488
+71.0,Corporate,Direct,489
+78.0,Corporate,Corporate,490
+72.0,Corporate,Corporate,491
+70.0,Offline TA/TO,TA/TO,492
+82.0,Offline TA/TO,TA/TO,493
+81.0,Corporate,Corporate,494
+74.0,Groups,TA/TO,495
+92.0,Corporate,Corporate,496
+14.0,Direct,TA/TO,497
+99.0,Offline TA/TO,TA/TO,498
+90.0,Offline TA/TO,TA/TO,499
+95.0,Corporate,Corporate,500
+47.0,Online TA,Corporate,501
+112.0,Offline TA/TO,TA/TO,502
+117.0,Offline TA/TO,TA/TO,503
+106.0,Corporate,Corporate,504
+85.0,Offline TA/TO,Direct,505
+148.0,Corporate,Corporate,506
+158.0,Corporate,Corporate,507
+167.0,Offline TA/TO,TA/TO,508
+144.0,Corporate,Corporate,509
+153.0,Aviation,TA/TO,510
+0.0,Aviation,TA/TO,511
+211.0,Offline TA/TO,TA/TO,512
+213.0,Corporate,Corporate,513
+216.0,Corporate,TA/TO,514
+232.0,Offline TA/TO,TA/TO,515
+0.0,Direct,GDS,516
+150.0,Corporate,Corporate,517
+191.0,Offline TA/TO,Direct,518
+267.0,Offline TA/TO,TA/TO,519
+252.0,Offline TA/TO,TA/TO,520
+227.0,Corporate,Corporate,521
+247.0,Direct,TA/TO,522
+278.0,Corporate,Corporate,523
+280.0,Corporate,Corporate,524
+285.0,Offline TA/TO,TA/TO,525
+36.0,Groups,TA/TO,526
+289.0,Offline TA/TO,TA/TO,527
+269.0,Offline TA/TO,TA/TO,528
+42.0,Complementary,TA/TO,529
+295.0,Offline TA/TO,TA/TO,530
+265.0,Offline TA/TO,TA/TO,531
+303.0,Corporate,Corporate,532
+306.0,Offline TA/TO,TA/TO,533
+335.0,Corporate,Corporate,534
+288.0,Direct,Direct,535
+85.0,Complementary,TA/TO,536
+122.0,Corporate,Corporate,537
+294.0,Offline TA/TO,TA/TO,538
+325.0,Corporate,Corporate,539
+341.0,Complementary,Corporate,540
+341.0,Corporate,Corporate,541
+1.0,Complementary,TA/TO,542
+344.0,Offline TA/TO,TA/TO,543
+6.0,Complementary,TA/TO,544
+111.0,Groups,TA/TO,545
+346.0,Offline TA/TO,TA/TO,546
+359.0,Offline TA/TO,TA/TO,547
+94.0,Complementary,TA/TO,548
+83.0,Complementary,TA/TO,549
+283.0,Corporate,Corporate,550
+364.0,Offline TA/TO,TA/TO,551
+370.0,Corporate,Corporate,552
+371.0,Offline TA/TO,TA/TO,553
+25.0,Offline TA/TO,TA/TO,554
+141.0,Complementary,TA/TO,555
+141.0,Offline TA/TO,TA/TO,556
+378.0,Offline TA/TO,TA/TO,557
+391.0,Offline TA/TO,TA/TO,558
+132.0,Complementary,TA/TO,559
+17.0,Complementary,TA/TO,560
+397.0,Corporate,Corporate,561
+12.0,Complementary,TA/TO,562
+416.0,Offline TA/TO,TA/TO,563
+404.0,Offline TA/TO,TA/TO,564
+299.0,Offline TA/TO,TA/TO,565
+10.0,Online TA,GDS,566
+197.0,Corporate,Corporate,567
+73.0,Corporate,Corporate,568
+159.0,Complementary,TA/TO,569
+354.0,Online TA,TA/TO,570
+444.0,Corporate,Corporate,571
+408.0,Corporate,Corporate,572
+20.0,Complementary,TA/TO,573
+98.0,Offline TA/TO,Corporate,574
+461.0,Offline TA/TO,TA/TO,575
+205.0,Groups,TA/TO,576
+388.0,Offline TA/TO,TA/TO,577
+453.0,Offline TA/TO,TA/TO,578
+467.0,Offline TA/TO,TA/TO,579
+459.0,Groups,Corporate,580
+474.0,Offline TA/TO,TA/TO,581
+455.0,Offline TA/TO,TA/TO,582
+475.0,Offline TA/TO,TA/TO,583
+394.0,Complementary,Direct,584
+480.0,Offline TA/TO,TA/TO,585
+0.0,Online TA,GDS,586
+10.0,Corporate,TA/TO,587
+495.0,Corporate,Corporate,588
+449.0,Offline TA/TO,TA/TO,589
+98.0,Groups,TA/TO,590
